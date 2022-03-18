@@ -1,5 +1,5 @@
 # project1: Employee Management System
-- Crud Application
+Fullstack CRUD application utilizing various technologies
 
 # User Stories:
 - Add Employee into database
