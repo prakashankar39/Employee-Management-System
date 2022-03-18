@@ -1,4 +1,4 @@
-# project1: Employee Management System
+# Project1: Employee Management System
 Fullstack CRUD application utilizing various technologies
 
 # User Stories:
