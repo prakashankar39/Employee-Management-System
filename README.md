@@ -1,7 +1,5 @@
 # project1: Employee Management System
-
-
-# Crud Application - Create, Read, Update and Delete
+- Crud Application
 
 # User Stories:
 - Add Employee into database
@@ -10,10 +8,10 @@
 
 
 # Technologies:
-  Java 17
-  Maven
-  Hibernate
-  SQL
-  Servlet
-  HTML/JS/CSS
-  JUnit
+- Java 17
+- Maven
+- Hibernate
+- SQL
+- Servlet
+- HTML/JS/CSS
+- JUnit
