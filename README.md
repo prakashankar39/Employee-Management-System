@@ -10,8 +10,9 @@ Fullstack CRUD application utilizing various technologies
 # Technologies:
 - Java 17
 - Maven
+- Spring
 - Hibernate
-- SQL
+- MS Azure SQL
 - Servlet
 - HTML/JS/CSS
 - JUnit
