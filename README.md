@@ -1,2 +1,1 @@
-# project1
-Employee Management System
+# project1: Employee Management System
