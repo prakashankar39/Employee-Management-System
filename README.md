@@ -11,12 +11,19 @@ Fullstack CRUD application utilizing various technologies
 
 # Technologies:
   Frontend:
+  - HTML
+  - CSS
+  - Bootstrap
+  
   Backend:
-- Java 17
-- Maven
-- Spring
-- Hibernate
-- MS Azure SQL
-- Servlet
-- HTML/JS/CSS
-- JUnit
+  - Java
+  - Spring
+  - Hibernate
+  - Azure SQL
+  
+  Testing:
+  - JUnit
+
+  Others:
+  - Maven
+  - Servlet
