@@ -12,20 +12,20 @@ The Employee Management System allows you to add, update, view, and delete emplo
 - Managed source control using Git version control.
 
 # Technologies:
-  ## Frontend:
-  - HTML
-  - CSS
-  - Bootstrap
+   # Frontend:
+    - HTML
+    - CSS
+    - Bootstrap
   
-  ## Backend:
-  - Java
-  - Spring
-  - Hibernate
-  - Azure SQL
+   # Backend:
+    - Java
+    - Spring
+    - Hibernate
+    - Azure SQL
   
-  ## Testing:
-  - JUnit
+   # Testing:
+    - JUnit
 
-  ## Tools:
-  - Maven
-  - Git
+   # Tools:
+    - Maven
+    - Git
