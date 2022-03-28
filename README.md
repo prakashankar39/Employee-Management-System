@@ -2,7 +2,7 @@
 The Employee Management System allows you to add, update, view, and delete employees from the web application, which will be reflected in the database.
 
 
-# Role/Responsibilities
+# Roles/Responsibilities
 - Created an Azure SQL database that holds employees' information.
 - Developed using frontend technologies (HTML, CSS, and Bootstrap).
 - Developed using backend technologies (Java, Spring, and Azure SQL).
