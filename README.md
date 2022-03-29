@@ -30,9 +30,17 @@ To-do list:
 ## Getting Started
 Begin by cloning the repository
 ```
-- $ git clone https://github.com/prakashankar39/Employee-Management-System
-- $ cd Employee-Management-System
+$ git clone https://github.com/prakashankar39/Employee-Management-System
+$ cd Employee-Management-System
 ```
+
+To get started with the Employee-Management-System you will need Java 11 or greater installed as well as Maven version 4 or greater
+```
+$ mvn install
+$ mvn spring-boot:run
+```
+
 ## Usage
-> Login with the admin panel to approve or reject employee applications
-> Login with the employee page to apply for current open positions within the company
+On startup you will find yourself on the landing page, from here...
+> You can add employee by clicking into *Add Employee* button
+> You also Click on *Update* and *Delete* button from action to make changes to employee table
