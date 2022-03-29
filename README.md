@@ -1,9 +1,9 @@
 # Project 1: Employee Management System
 
-# Project Description
+Project Description
 The Employee Management System allows you to add, update, view, and delete employees from the web application, which will be reflected in the database
 
-# Technologies used
+Technologies used
    Frontend
    - HTML 5
    - CSS 3
@@ -17,7 +17,7 @@ The Employee Management System allows you to add, update, view, and delete emplo
    - Hibernate
    - Azure SQL
 
-# Features
+Features
 List of features ready and TODOs for future development
 - Holds employees information into the Azure SQL database
 - Able to perform CRUD operation using Postman
@@ -27,7 +27,7 @@ To-do list:
 - Create user Login and Registeration form to manage employee
 - Implement Spring Security to improve user credentials saftey and sign in flow
 
-# Getting Started
+Getting Started
 Begin by cloning the parent repository
 
    $ git clone https://github.com/prakashankar39/Employee-Management-System
