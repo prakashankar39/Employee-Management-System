@@ -43,4 +43,4 @@ $ mvn spring-boot:run
 ## Usage
 On startup you will find yourself on the landing page, from here...
 > You can add employee by clicking into *Add Employee* button
-> You also Click on *Update* and *Delete* button from action to make changes to employee table
+  You also Click on *Update* and *Delete* button from action to make changes to employee table
