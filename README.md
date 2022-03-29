@@ -10,7 +10,7 @@ The Employee Management System allows you to add, update, view, and delete emplo
    - Bootstrap - version 2.2.1
   
    Backend
-   - Java - version 11.0
+   - Java - version 17.0
    - Spring-Boot - version 2.6.4
    - JUnit - version 4.13.2
    - Maven - version 4.0.0
